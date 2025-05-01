@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Deepak Verma</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
 
+<img align="right" alt="coding" width="100%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 
 - 🔭 I’m currently working on **Banking Management System**  
 - 🌱 I’m currently learning **Java, Spring Boot, SQL**  
 - 👯 I’m looking to collaborate on **Java Projects**  
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
----
 
 ### 🌐 Connect with me:
 
